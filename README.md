@@ -6,3 +6,8 @@ React's useState and useEffect hooks were utilized for state management. For loa
 This setup ensures that users have a seamless experience with their data consistently saved, making the app both functional and reliable.
 
 alt text alt text alt text alt text
+# screenshot
+![photo_2024-07-10_16-18-18](https://github.com/user-attachments/assets/f406220d-76b3-4524-99f1-50eed7bea760)
+![photo_2024-07-10_16-18-49](https://github.com/user-attachments/assets/239ab45b-7541-463a-b997-022d0b535d92)
+![photo_2024-07-10_16-18-55](https://github.com/user-attachments/assets/956fcfbc-5dce-4ea1-96bc-e5080a7d4fab)
+![photo_2024-07-10_16-19-00](https://github.com/user-attachments/assets/372019dd-cae3-45ce-af87-a47bbe71ea52)
